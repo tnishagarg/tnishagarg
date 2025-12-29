@@ -27,7 +27,7 @@ A full-stack web platform that connects influencers with brands to manage collab
 The CLUSTER is a digital gym management platform that replaces traditional pen-and-paper record keeping with an organized, searchable, and centralized system.
 It enables a single admin to manage multiple gym branches, members, trainers, and workouts from one dashboard.
 
-<img src="Gv" width="900" alt="The CLUSTER Member Management"/>
+<img src="https://github.com/tnishagarg/Gym-Management-System/blob/main/screenshots/members.png" width="900" alt="The CLUSTER Member Management"/>
 
 <sub><i>Member management screen showing member profiles, trainer assignment, and contact details.</i></sub>
 
@@ -44,7 +44,7 @@ It enables a single admin to manage multiple gym branches, members, trainers, an
 - Fitness center administrators  
 - Small and medium fitness businesses  
 
-[![Code](https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/tnishagarg/the-cluster)
+[![Code](https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/tnishagarg/Gym-Management-System)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tnisha_garg16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tnisha/) 
