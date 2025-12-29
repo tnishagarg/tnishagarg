@@ -2,6 +2,50 @@
 🎓 I'm a Computer Science undergraduate passionate about turning ideas into real world solutions.<br>💡 I love exploring new technologies, solving real-world problems, and building creative solutions.<br>🔍 Currently exploring Software development, backend technologies, and AI/ML. <br>🤝 Let’s collaborate, contribute, and create something legendary!
 
 
+# 🚀 Featured Projects
+### 🔹 Connectra — Influencer–Brand Collaboration Platform
+A full-stack web platform that connects influencers with brands to manage collaborations, campaigns, and events in one place.
+
+<img src="screenshots/influencer-dashboard.png" width="900" alt="Connectra Influencer Dashboard"/>
+
+<sub><i>Influencer dashboard showing profile, bookings, event management, and settings.</i></sub>
+
+**Tech:** Node.js, Express.js, MySQL, HTML, CSS, JavaScript  
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://connectra-qg8r.onrender.com/)
+[![Code](https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/tnishagarg/Connectra)
+
+
+**Key Features:**
+- Secure signup/login for influencers and clients  
+- Influencer & client profile management with image uploads  
+- Event posting and campaign tracking  
+- Admin dashboard to manage users and block/resume accounts  
+- Email notifications using Nodemailer  
+
+### 🔹 The CLUSTER — Gym Management System
+The CLUSTER is a digital gym management platform that replaces traditional pen-and-paper record keeping with an organized, searchable, and centralized system.
+It enables a single admin to manage multiple gym branches, members, trainers, and workouts from one dashboard.
+
+<img src="screenshots/member-management.png" width="900" alt="The CLUSTER Member Management"/>
+
+<sub><i>Member management screen showing member profiles, trainer assignment, and contact details.</i></sub>
+
+**Tech:** Node.js, Express.js, MySQL, HTML, CSS, JavaScript  
+
+**Key Features:**
+- Digitizes gym operations by replacing manual registers with a searchable system  
+- Enables a single admin to manage multiple gym locations efficiently  
+- Maintains structured records of members, trainers, workouts, and enrollments  
+- Provides secure access through authenticated admin login
+
+**Use Cases:**
+- Gym owners  
+- Fitness center administrators  
+- Small and medium fitness businesses  
+
+[![Code](https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/tnishagarg/the-cluster)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tnisha_garg16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tnisha/) 
 
