@@ -17,11 +17,10 @@ A full-stack web platform that connects influencers with brands to manage collab
 
 
 **Key Features:**
-- Secure signup/login for influencers and clients  
-- Influencer & client profile management with image uploads  
-- Event posting and campaign tracking  
-- Admin dashboard to manage users and block/resume accounts  
-- Email notifications using Nodemailer  
+- One platform to discover, connect, and collaborate with influencers  
+- Easy filtering to find the right creators by domain, city, and name  
+- CRUD-based management of influencer availability and posted events  
+- Secure accounts with role-based access and control  
 
 ### 🔹 The CLUSTER — Gym Management System
 The CLUSTER is a digital gym management platform that replaces traditional pen-and-paper record keeping with an organized, searchable, and centralized system.
@@ -29,7 +28,8 @@ It enables a single admin to manage multiple gym branches, members, trainers, an
 
 <img src="https://github.com/tnishagarg/Gym-Management-System/blob/main/screenshots/members.png" width="900" alt="The CLUSTER Member Management"/>
 
-<sub><i>Member management screen showing member profiles, trainer assignment, and contact details.</i></sub>
+<<sub><i>Member management screen for adding, viewing, updating, and deleting gym member records.</i></sub>
+
 
 **Tech:** Node.js, Express.js, MySQL, HTML, CSS, JavaScript  
 
