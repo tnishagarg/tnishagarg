@@ -74,7 +74,3 @@ It enables a single admin to manage multiple gym branches, members, trainers, an
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tnishagarg&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kashikajindal&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-change this
