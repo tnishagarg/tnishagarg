@@ -6,7 +6,7 @@
 ### 🔹 Connectra — Influencer–Brand Collaboration Platform
 A full-stack web platform that connects influencers with brands to manage collaborations, campaigns, and events in one place.
 
-<img src="Connectra/screenshots/influencer_dashboard.png" width="900" alt="Connectra Influencer Dashboard"/>
+<img src="https://github.com/tnishagarg/Connectra/blob/master/screenshots/influencer_dashboard.png" width="900" alt="Connectra Influencer Dashboard"/>
 
 <sub><i>Influencer dashboard showing profile, bookings, event management, and settings.</i></sub>
 
@@ -27,7 +27,7 @@ A full-stack web platform that connects influencers with brands to manage collab
 The CLUSTER is a digital gym management platform that replaces traditional pen-and-paper record keeping with an organized, searchable, and centralized system.
 It enables a single admin to manage multiple gym branches, members, trainers, and workouts from one dashboard.
 
-<img src="Gym-Management-System/screenshots/members.png" width="900" alt="The CLUSTER Member Management"/>
+<img src="Gv" width="900" alt="The CLUSTER Member Management"/>
 
 <sub><i>Member management screen showing member profiles, trainer assignment, and contact details.</i></sub>
 
