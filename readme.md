@@ -28,7 +28,7 @@ It enables a single admin to manage multiple gym branches, members, trainers, an
 
 <img src="https://github.com/tnishagarg/Gym-Management-System/blob/main/screenshots/members.png" width="900" alt="The CLUSTER Member Management"/>
 
-<<sub><i>Member management screen for adding, viewing, updating, and deleting gym member records.</i></sub>
+<sub><i>Member management screen for adding, viewing, updating, and deleting gym member records.</i></sub>
 
 
 **Tech:** Node.js, Express.js, MySQL, HTML, CSS, JavaScript  
